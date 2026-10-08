@@ -1,0 +1,17 @@
+{
+  "name": "Raybod Akbarlou | Portfolio",
+  "short_name": "Raybod",
+  "description": "پورتفولیوی شخصی رایبد اکبرلو — توسعه‌دهنده فرانت‌اند",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#05100c",
+  "theme_color": "#05100c",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    { "src": "assets/icons/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icons/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/icons/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
